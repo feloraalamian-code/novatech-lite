@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "novabook a1",
+    "category": "laptop",
+    "price": 45000000,
+    "ram": 16,
+    "usage": [
+      "programming"
+    ],
+    "description": "good for light to medium programming"
+  },
+  {
+    "id": 2,
+    "name": "novabook b2",
+    "category": "laptop",
+    "price": 55000000,
+    "ram": 32,
+    "usage": [
+      "programming",
+      "design"
+    ],
+    "description": "good for heavy programming and professional work"
+  },
+  {
+    "id": 3,
+    "name": "NovaBook Lite",
+    "category": "laptop",
+    "price": 32000000,
+    "ram": 8,
+    "usage": [
+      "office",
+      "student"
+    ],
+    "description": "Good for everyday office and student use"
+  },
+  {
+    "id": 4,
+    "name": "NovaBook Pro X",
+    "category": "laptop",
+    "price": 68000000,
+    "ram": 32,
+    "usage": [
+      "design",
+      "editing",
+      "programming"
+    ],
+    "description": "Good for design, video editing, and professional programming"
+  },
+  {
+    "id": 5,
+    "name": "NovaBook Gamer",
+    "category": "laptop",
+    "price": 60000000,
+    "ram": 16,
+    "usage": [
+      "gaming",
+      "programming"
+    ],
+    "description": "Good for heavy gaming and game development"
+  }
+]
